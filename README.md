@@ -1,2 +1,3 @@
-# geek-mono-font
-A font for programming.
+# Geek Mono
+
+## A font for programming.
